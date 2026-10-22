@@ -2,3 +2,5 @@
 alsa-lib
 python2-tools
 cython
+numpy
+miniaudio
